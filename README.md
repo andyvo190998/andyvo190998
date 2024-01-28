@@ -27,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andyvo190998&show_icons=true&locale=en&layout=compact" alt="andyvo190998" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andyvo190998&show_icons=true&locale=en" alt="andyvo190998" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andyvo190998&" alt="andyvo190998" /></p>
