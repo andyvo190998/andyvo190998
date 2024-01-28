@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andyvo190998&label=Profile%20views&color=0e75b6&style=flat" alt="andyvo190998" /> </p>
 
-- 🌱 I’m currently learning **NextJS 14, Project Management,...**
+- 🌱 I’m currently learning **React Native, NextJS 14, Project Management,...**
 
 - 👨‍💻 Visit my web portfolio to know everything about me [https://andyvo190998.github.io/animated-portfolio/](https://andyvo190998.github.io/animated-portfolio/)
 
