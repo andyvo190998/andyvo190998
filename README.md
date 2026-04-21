@@ -13,7 +13,8 @@
 
 <img align="right" alt="Coding" width="320" src="https://www.interviewexpress.in/onGoingChallenges.gif" />
 
-## 👨‍💻 About Me
+👨‍💻 About Me
+
 
 - 💼 Full-Stack Engineer with **4+ years of experience** building scalable web applications
 - 🌍 From **Vietnam 🇻🇳**, currently based in **Germany 🇩🇪**
