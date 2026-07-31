@@ -18,7 +18,7 @@
 
 - 💼 Full-Stack Engineer with **4+ years of experience** building scalable web applications
 - 🌍 From **Vietnam 🇻🇳**, currently based in **Germany 🇩🇪**
-- ⚙️ Strong focus on **React, TypeScript, Next.js, Node.js, and NestJS**
+- ⚙️ Strong focus on **React, TypeScript, Python, PHP, Next.js, Node.js, and NestJS**
 - 📡 Experienced in **API-driven systems, real-time applications, and SaaS products**
 - ☁️ Familiar with **Docker, Kubernetes, AWS, PostgreSQL, and Redis**
 - 🤖 Interested in **AI-powered features, modern architectures, and product-driven engineering**
